@@ -40,12 +40,3 @@ let index = 4;
 let element = "tomato";
 fruits.splice(index, 0,element);
 console.log(fruits);
-
-
-
-
-
-
-
-
-
